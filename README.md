@@ -10,4 +10,6 @@
 - 📫 Reach me: pudugg@gmail.com
 - ⚡ Fun fact: I am a huge fan of **Star Wars**
 
-![Pu's github stats](https://github-readme-stats.vercel.app/api?username=ipudu&show_icons=true&count_private=true&hide=contribs)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ipudu&show_icons=true&count_private=true&hide=contribs" alt="Pu's github stats">
+</p>
