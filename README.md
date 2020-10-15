@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fipudu)
 
 - 🔭 I’m currently working on ![React](https://img.shields.io/badge/-React-3b2e5a?style=flat&logo=react) projects
-- 🌱 I’m currently using:
+- 🌱 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python)
