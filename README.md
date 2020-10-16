@@ -1,4 +1,4 @@
-## Hi there 👋 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fipudu)
+## Hi there 👋 I am [Pu Du](https://pudu.io)
 
 - 🔭 I’m currently working on ![React](https://img.shields.io/badge/-React-3b2e5a?style=flat&logo=react) projects
 - 🌱 I use daily:
@@ -7,7 +7,6 @@
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-- 📫 Reach me: pudugg@gmail.com
 - ⚡ Fun fact: I am a huge fan of **Star Wars**
 
 <p align="center">
