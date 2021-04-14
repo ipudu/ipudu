@@ -1,8 +1,9 @@
 ## Hi there 👋 I am [Pu Du](https://pudu.io)
 
-- 🔭 I’m currently working on ![React](https://img.shields.io/badge/-React-3b2e5a?style=flat&logo=react) projects
+- 🔭 I’m currently working on ![React](https://img.shields.io/badge/-React-3b2e5a?style=flat&logo=react)![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)projects
 - 🌱 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
