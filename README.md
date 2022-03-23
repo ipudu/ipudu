@@ -1,4 +1,4 @@
-## Hi there 👋 I am [Pu Du](https://pudu.io)
+## Hi there 👋 I am [Pu Du](https://github.com/ipudu)
 
 - 🔭 I’m currently working on ![React](https://img.shields.io/badge/-React-3b2e5a?style=flat&logo=react)![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)projects
 - 🌱 I use daily:
