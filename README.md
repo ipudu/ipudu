@@ -10,6 +10,7 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 - ⚡ Fun fact: I am a huge fan of **Star Wars**
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ipudu&show_icons=true&count_private=true&hide=contribs" alt="Pu's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ipudu&show_icons=true&count_private=true&hide=contribs&rank_icon=github" alt="Pu's github stats">
 </p>
